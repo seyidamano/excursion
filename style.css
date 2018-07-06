@@ -1,0 +1,38 @@
+<style>
+h1 {
+  font-family: Verdana;
+  font-weight: Normal;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+}
+.guide {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+h4 {
+  font-size: 16px;
+  text-align: center;
+  color: Aquamarine;
+}
+.player {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+h3 {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+  text-align: center;
+}
+.copyright {
+  font-family: Verdana;
+  text-align: right;
+  color: Gray;
+}
+body {
+  background: black;
+}
+</style>
